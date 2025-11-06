@@ -2,6 +2,9 @@
 
 A Python tool to check Lenovo warranty information via web scraping using device serial numbers. Supports both single device lookups and bulk processing with detailed reporting.
 
+<img width="710" height="830" alt="image" src="https://github.com/user-attachments/assets/23c3fa71-1d39-4a0c-95fc-8de8fff2ddfd" />
+
+
 ## Features
 
 - ✅ Single device warranty lookup
